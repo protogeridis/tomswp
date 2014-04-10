@@ -82,7 +82,7 @@ get_header(); ?>
 
   <ul class="bxslider" id="bxseasonal">
    <div class="slide">
-       <img src="<?php echo $rooturl; ?>/images/banner2.jpg" alt="TOMS Seasonal Banner">
+       <img src="<?php echo $rooturl; ?>/images/banner.jpg" alt="TOMS Seasonal Banner">
   </div><!-- slide -->
 </ul><!-- bxslider -->
 
@@ -131,7 +131,7 @@ get_header(); ?>
 
                <section class="section-header">
                    <h2>Spring Collection 2014</h2>
-                   <p>Featuring a perforated upper in suede, we have added an element of sophistication to one of our most relaxed styles.</p>
+                   <!--<p>Featuring a perforated upper in suede, we have added an element of sophistication to one of our most relaxed styles.</p>-->
               </section>
 
               <ul class="nav nav-tabs" id="producttab">
@@ -405,7 +405,7 @@ get_header(); ?>
 
        <section class="section-header header-videos">
            <h2>Our Videos</h2>
-           <p>Featuring a perforated upper in suede, we have added an element of sophistication to one of our most relaxed styles.</p>
+           <!--<p>Featuring a perforated upper in suede, we have added an element of sophistication to one of our most relaxed styles.</p>-->
       </section>
 
 
@@ -418,7 +418,7 @@ get_header(); ?>
                   </section><!-- article-top -->
                   <section class="article-bottom">
                        <h2>One Day without Shoes 2013</h2>
-                       <p>We couldn't be more excited to launch our newest One for One® product - TOMS Roasting Co. Below is a piece written by Blake Mycoskie, TOMS Founder &amp; Chief Shoe Giver, sharing his thoughts on entering the coffee business. </p>
+                       <!--<p>We couldn't be more excited to launch our newest One for One® product - TOMS Roasting Co. Below is a piece written by Blake Mycoskie, TOMS Founder &amp; Chief Shoe Giver, sharing his thoughts on entering the coffee business. </p>-->
                   </section>
                   <section class="article-social">
                        <ul>
@@ -443,7 +443,7 @@ get_header(); ?>
                      </section><!-- article-top -->
                      <section class="article-bottom">
                           <h2>One Day without Shoes 2012</h2>
-                          <p>We couldn't be more excited to launch our newest One for One® product - TOMS Roasting Co.</p>
+                         <!--<p>We couldn't be more excited to launch our newest One for One® product - TOMS Roasting Co.</p>-->
                      </section>
                      <section class="article-social">
                           <ul>
@@ -466,7 +466,7 @@ get_header(); ?>
                 </section><!-- article-top -->
                 <section class="article-bottom">
                      <h2>Fashion Workshop by Vicky Kaya</h2>
-                     <p>TOMS Founder &amp; Chief Shoe Giver, sharing his thoughts on entering the coffee business. </p>
+                     <!--<p>TOMS Founder &amp; Chief Shoe Giver, sharing his thoughts on entering the coffee business. </p>-->
                 </section>
                 <section class="article-social">
                      <ul>
@@ -501,7 +501,7 @@ get_header(); ?>
 
                <section class="section-header header-map">
                    <h2>Store Locator</h2>
-                   <p>Featuring a perforated upper in suede, we have added an element of sophistication to one of our most relaxed styles.</p>
+                   <p>Choose your region through the menu, and click on a store to view its location on the map.</p>
               </section>
 
               <!-- controls -->
