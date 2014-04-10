@@ -41,7 +41,7 @@ get_header(); ?>
               <div class="container">
                   <div class="row">
                       <div class="col-md-3 col-sm-2">
-                          <a href="#" class="logo header-logo animate"><img src="<?php echo $rooturl; ?>/images/logo_trans.png" alt="TOMS Logo"></a>
+                          <a href="#intro" class="nav-button logo header-logo animate"><img src="<?php echo $rooturl; ?>/images/logo_trans.png" alt="TOMS Logo"></a>
                      </div><!-- col md 3 -->
 
                      <div class="col-md-6 col-sm-8" id="headernav">
@@ -420,7 +420,7 @@ get_header(); ?>
                   </section><!-- article-top -->
                   <section class="article-bottom">
                        <h2>One Day without Shoes 2013</h2>
-                       <!--<p>We couldn't be more excited to launch our newest One for One® product - TOMS Roasting Co. Below is a piece written by Blake Mycoskie, TOMS Founder &amp; Chief Shoe Giver, sharing his thoughts on entering the coffee business. </p>-->
+                       <p>On April 16, 2013, we came together and went without shoes alongside agents of change (YOU!) across 50 countries to bring awareness to children's health and education. </p>
                   </section>
                   <section class="article-social">
                        <ul>
