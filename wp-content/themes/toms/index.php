@@ -135,8 +135,8 @@ get_header(); ?>
               </section>
 
               <ul class="nav nav-tabs" id="producttab">
-                   <li class="active"><a href="#men">Men</a></li>
-                   <li><a href="#women">Women</a></li>
+                   <li><a href="#men">Men</a></li>
+                   <li class="active"><a href="#women">Women</a></li>
                    <li><a href="#tiny">Tiny</a></li>
                    <li><a href="#youth">Youth</a></li>
                    <li><a href="#eyewear">Eyewear</a></li>
