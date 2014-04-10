@@ -87,7 +87,13 @@ jQuery(document).ready(function(){
 
 	/* Slider Init */
 
-	var menflag = true, womenflag = false, youthflag = false, tinyflag = false;
+	var womenflag = true, menflag = false, youthflag = false, tinyflag = false;
+
+	var womenslider = jQuery('#bxslider-women').bxSlider({
+		mode:'fade',
+		adaptiveHeight:true,
+		pagerCustom: '#bx-pager-women'
+	});
 
 	var menslider = jQuery('#bxslider-men').bxSlider({
 		mode:'fade',
@@ -95,11 +101,6 @@ jQuery(document).ready(function(){
 		pagerCustom: '#bx-pager-men'
 	});
 
-	var womenslider = jQuery('#bxslider-women').bxSlider({
-		mode:'fade',
-		adaptiveHeight:true,
-		pagerCustom: '#bx-pager-women'
-	});
 
 	var youthslider = jQuery('#bxslider-youth').bxSlider({
 		mode:'fade',
@@ -131,12 +132,12 @@ jQuery(document).ready(function(){
 		jQuery(this).tab('show');
 	});
 
-	jQuery('#producttab a[href="#men"]').on('shown.bs.tab', function (e) {
-		menslider.reloadSlider();
-	});
-
 	jQuery('#producttab a[href="#women"]').on('shown.bs.tab', function (e) {
 		womenslider.reloadSlider();
+	});
+
+	jQuery('#producttab a[href="#men"]').on('shown.bs.tab', function (e) {
+		menslider.reloadSlider();
 	});
 
 	jQuery('#producttab a[href="#youth"]').on('shown.bs.tab', function (e) {

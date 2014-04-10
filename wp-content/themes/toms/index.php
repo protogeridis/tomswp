@@ -146,7 +146,48 @@ get_header(); ?>
               <div class="tab-content">
 
 
-                   <div class="tab-pane fade active in" id="men">
+      
+
+
+
+           <div class="tab-pane fade active in" id="women">
+
+             <ul class="bxslider" id="bxslider-women">
+
+                 <?php
+                 for ($i = 1; $i <= $productcount; $i++) {
+                     echo '<div class="slide product-big">' . 
+                     '<img class="lazy" data-original="' .
+                     $rooturl .
+                     '/images/women/women' .
+                     $i .
+                     '.jpg" alt="TOMS Women">'.
+                     '</div><!-- slide -->';
+                }
+                ?>
+
+
+
+           </ul><!-- bxslider -->
+
+
+           <div id="bx-pager-women" class="bx-pager">
+            <?php
+            for ($i = 1; $i <= $productcount; $i++) {
+                echo '<a data-slide-index="' . 
+                ($i - 1) .
+                'href=""><img class="lazy" data-original="' .
+                $rooturl .
+                '/images/women/women' .
+                $i .
+                '.jpg" alt="TOMS Women" /></a>';
+           }
+           ?>
+      </div><!-- bx pager -->
+
+ </div><!-- tab pane -->
+
+   <div class="tab-pane fade" id="men">
 
                        <ul class="bxslider" id="bxslider-men">
 
@@ -183,45 +224,6 @@ get_header(); ?>
                 </div><!-- bx pager -->
 
            </div><!-- tab pane -->
-
-
-
-           <div class="tab-pane fade" id="women">
-
-             <ul class="bxslider" id="bxslider-women">
-
-                 <?php
-                 for ($i = 1; $i <= $productcount; $i++) {
-                     echo '<div class="slide product-big">' . 
-                     '<img class="lazy" data-original="' .
-                     $rooturl .
-                     '/images/women/women' .
-                     $i .
-                     '.jpg" alt="TOMS Women">'.
-                     '</div><!-- slide -->';
-                }
-                ?>
-
-
-
-           </ul><!-- bxslider -->
-
-
-           <div id="bx-pager-women" class="bx-pager">
-            <?php
-            for ($i = 1; $i <= $productcount; $i++) {
-                echo '<a data-slide-index="' . 
-                ($i - 1) .
-                'href=""><img class="lazy" data-original="' .
-                $rooturl .
-                '/images/women/women' .
-                $i .
-                '.jpg" alt="TOMS Women" /></a>';
-           }
-           ?>
-      </div><!-- bx pager -->
-
- </div><!-- tab pane -->
 
 
  <div class="tab-pane fade" id="youth">
