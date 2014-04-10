@@ -424,10 +424,10 @@ get_header(); ?>
                   </section>
                   <section class="article-social">
                        <ul>
-                           <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                           <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                           <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                           <li><a target="_blank" rel="nofollow" href="http://www.pinterest.com/pin/create/button/?url=http%3A//www.youtube.com/attribution_link%3Fa%3D4CcH8YuA1qs%26u%3D%252Fwatch%253Fv%253Dwv-YbDqq4hE%2526feature%253Dshare&description=One%20Day%20Without%20Shoes%20in%20Greece%202013%20Video&is_video=true&media=https%3A//i1.ytimg.com/vi/wv-YbDqq4hE/maxresdefault.jpg"><i class="fa fa-pinterest"></i></a></li>
+                           <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://www.youtube.com/watch?v=wv-YbDqq4hE"><i class="fa fa-facebook"></i></a></li>
+                           <li><a target="_blank" rel="nofollow" href="https://twitter.com/home?status=https://www.youtube.com/watch?v=wv-YbDqq4hE"><i class="fa fa-twitter"></i></a></li>
+                           <li><a target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://www.youtube.com/watch?v=wv-YbDqq4hE"><i class="fa fa-google-plus"></i></a></li>
                       </ul>
                  </section><!-- article social -->
                  <section class="article-label">Videos</section>
@@ -441,7 +441,7 @@ get_header(); ?>
               <div class="col-md-12">
                   <div class="article article-small">
                       <section class="article-top">
-                          <iframe height="150" src="//www.youtube.com/embed/RqBw_Du5qiI?controls=2&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                          <iframe height="150" src="//www.youtube.com/embed/UWRRPeqNKtg?controls=2&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                      </section><!-- article-top -->
                      <section class="article-bottom">
                           <h2>One Day without Shoes 2012</h2>
@@ -449,10 +449,10 @@ get_header(); ?>
                      </section>
                      <section class="article-social">
                           <ul>
-                              <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                              <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                              <li><a target="_blank" rel="nofollow" href="http://www.pinterest.com/pin/create/button/?url=http%3A//www.youtube.com/attribution_link%3Fa%3D7dnb3_e896o%26u%3D%252Fwatch%253Fv%253DUWRRPeqNKtg%2526feature%253Dshare&description=One%20Day%20Without%20Shoes%202012%20-%20Greece&is_video=true&media=https%3A//i1.ytimg.com/vi/UWRRPeqNKtg/maxresdefault.jpg"><i class="fa fa-pinterest"></i></a></li>
+                              <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://www.youtube.com/watch?v=UWRRPeqNKtg"><i class="fa fa-facebook"></i></a></li>
+                              <li><a target="_blank" rel="nofollow" href="https://twitter.com/home?status=https://www.youtube.com/watch?v=UWRRPeqNKtg"><i class="fa fa-twitter"></i></a></li>
+                              <li><a target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://www.youtube.com/watch?v=UWRRPeqNKtg"><i class="fa fa-google-plus"></i></a></li>
                          </ul>
                     </section><!-- article social -->
                     <section class="article-label">Videos</section>
@@ -464,7 +464,7 @@ get_header(); ?>
          <div class="col-md-12">
              <div class="article article-small">
                  <section class="article-top">
-                     <iframe height="150" src="//www.youtube.com/embed/UWRRPeqNKtg?controls=2&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                     <iframe height="150" src="//www.youtube.com/embed/RqBw_Du5qiI?controls=2&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                 </section><!-- article-top -->
                 <section class="article-bottom">
                      <h2>Fashion Workshop by Vicky Kaya</h2>
@@ -472,10 +472,10 @@ get_header(); ?>
                 </section>
                 <section class="article-social">
                      <ul>
-                         <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                         <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                         <li><a target="_blank" rel="nofollow" href="http://www.pinterest.com/pin/create/button/?url=http%3A//www.youtube.com/attribution_link%3Fa%3Dxm8K-E0CGJc%26u%3D%252Fwatch%253Fv%253DRqBw_Du5qiI%2526feature%253Dshare&description=One%20Day%20Without%20Shoes%202012%20-%20Fashion%20Workshop%20by%20Vicky%20Kaya&is_video=true&media=https%3A//i1.ytimg.com/vi/RqBw_Du5qiI/maxresdefault.jpg"><i class="fa fa-pinterest"></i></a></li>
+                         <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://www.youtube.com/watch?v=RqBw_Du5qiI"><i class="fa fa-facebook"></i></a></li>
+                         <li><a target="_blank" rel="nofollow" href="https://twitter.com/home?status=https://www.youtube.com/watch?v=RqBw_Du5qiI"><i class="fa fa-twitter"></i></a></li>
+                         <li><a target="_blank" rel="nofollow" href="https://plus.google.com/share?url=https://www.youtube.com/watch?v=RqBw_Du5qiI"><i class="fa fa-google-plus"></i></a></li>
                     </ul>
                </section><!-- article social -->
                <section class="article-label">Videos</section>
